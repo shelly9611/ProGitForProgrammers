@@ -1,0 +1,17 @@
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.csproj.AssemblyReference.cache
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.Form1.resources
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.csproj.GenerateResource.cache
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.AssemblyInfoInputs.cache
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.AssemblyInfo.cs
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.csproj.CoreCompileInputs.cache
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net6.0-windows\ProGitForProgrammers.exe
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net6.0-windows\ProGitForProgrammers.deps.json
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net6.0-windows\ProGitForProgrammers.runtimeconfig.json
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net6.0-windows\ProGitForProgrammers.dll
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\bin\Debug\net6.0-windows\ProGitForProgrammers.pdb
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.dll
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\refint\ProGitForProgrammers.dll
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.pdb
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ProGitForProgrammers.genruntimeconfig.cache
+D:\GitHub\CommandLine\ProGitForProgrammers\ProGitForProgrammers\obj\Debug\net6.0-windows\ref\ProGitForProgrammers.dll
